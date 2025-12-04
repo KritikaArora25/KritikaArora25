@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KritikaArora25/KritikaArora25/main/profile-icon.png" width="100" />
+  <img src="profile-icon.png" width="100" />
 </p>
 
 <h2 align="center">Kritika Arora</h2>
