@@ -1,16 +1,49 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KritikaArora25/KritikaArora25/main/profile-icon.png" width="100" />
+</p>
 
-<!--
-**KritikaArora25/KritikaArora25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Kritika Arora</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>— build with intention, refine with patience —</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌿 About Me  
+I'm a Computer Science student and developer who enjoys building clean, meaningful, and functional digital experiences.
+
+Currently focused on:
+
+- Full-Stack Development (MERN)
+- AI & API Integrations
+- Subtle motion and interaction design (GSAP)
+
+---
+
+### 🧩 What I'm Building  
+**Cogniflow** — a mindful productivity platform combining MERN, real-time behavior tracking, and AI-generated study flow insights.
+
+---
+
+### ⚙️ Tech I'm Working With
+
+JavaScript · React · Tailwind · Node.js · Express · MongoDB
+GSAP · Chrome Extensions · REST APIs · OpenAI Integrations
+
+---
+
+### 🧘 Approach  
+- Keep it simple  
+- Learn deeply  
+- Improve quietly  
+
+> *Yogaḥ karmasu kauśalam — Excellence in action.*
+
+---
+
+<br>
+
+<p align="center">
+  <sub>🪷 Radhe Radhe</sub>
+</p>
