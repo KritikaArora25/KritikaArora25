@@ -37,7 +37,7 @@ I enjoy:
 
 ---
 
-<p align="center" style="font-size:18px;">🪷 ༺━━━༻ 🎶 ༺━━━༻ 🪷</p>
+<p align="center" style="font-size:18px;">🎶 ༺━━━༻ 🦚 ༺━━━༻ 🎶</p>
 
 ### 🎨 Tech Stack  
 
