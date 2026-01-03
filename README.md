@@ -4,7 +4,7 @@
 
 
 
-## <span style="color:#12A28C;">✨ Kritika Arora ✨</span>
+## <span style="color:#12A28C;">✨ Kritika ✨</span>
 
 ### <sub><em style="color:#b18cd9;">build with intention · refine with patience · evolve quietly</em></sub>
 
